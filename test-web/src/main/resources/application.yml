@@ -1,0 +1,8 @@
+server:
+  port: 10000
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: czy
+    password: 1234
